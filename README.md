@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
-- [Lab Exercises](https://github.com/tuckws/Lab_Python)
+- [Python Homelab](https://github.com/tuckws/Lab_Python)
 - [Active Directory Homelab](https://github.com/tuckws/Lab_Active_Directory)
 
 <h3>:page_with_curl: Certifications:</h3>
