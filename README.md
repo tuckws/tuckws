@@ -2,8 +2,8 @@
 
 ### 👨‍💻 Cybersecurity Projects:
 
-- [Python Homelab](https://github.com/tuckws/Lab_Python)
-- [Active Directory Homelab](https://github.com/tuckws/Lab_Active_Directory)
+- [Python Lab](https://github.com/tuckws/Lab_Python)
+- [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
 
 ### :page_with_curl: Certifications:
 
