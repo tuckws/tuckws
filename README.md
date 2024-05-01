@@ -6,6 +6,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 ## Projects
 - [Python Lab](https://github.com/tuckws/Lab_Python)
 - [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
+- [SOC Analyst Automation Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
 
 ## Certifications
 - [**GCIH** - GIAC Certified Incident Handler (June 2024)](https://www.giac.org/certifications/certified-incident-handler-gcih/)
