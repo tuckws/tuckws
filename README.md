@@ -13,7 +13,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 - [**GFACT** - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
 
 ## Misc
-- 2024 National Cyber League Competition - Spring
+- 2024 National Cyber League Competition - Spring [Indiv Event - Top 15% / 7400] [Team Event - Top 2% / 4200]
 - OverTheWire - Wargames
 - TryHackMe
 
