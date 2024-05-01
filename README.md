@@ -1,17 +1,17 @@
 ## Hello, I'm Tucker. Welcome to my GitHub.
 
-### 👨‍💻 Cybersecurity Projects:
+### Cybersecurity Projects:
 
 - [Python Lab](https://github.com/tuckws/Lab_Python)
 - [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
 
-### :page_with_curl: Certifications:
+### Certifications:
 
 - [GCIH - GIAC Certified Incident Handler (June 2024)](https://www.giac.org/certifications/certified-incident-handler-gcih/)
 - [GSEC - GIAC Security Essentials](https://www.giac.org/certifications/security-essentials-gsec/)
 - [GFACT - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
 
-### :telescope: Other Fun Stuff:
+### Other Fun Stuff:
 
 - 2024 National Cyber League Competition - Spring
 - OverTheWire - Wargames
