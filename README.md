@@ -12,7 +12,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 - [**GSEC** - GIAC Security Essentials](https://www.giac.org/certifications/security-essentials-gsec/)
 - [**GFACT** - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
 
-## Other Fun Stuff
+## Misc
 - 2024 National Cyber League Competition - Spring
 - OverTheWire - Wargames
 - TryHackMe
