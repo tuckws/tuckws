@@ -1,7 +1,7 @@
 # Hello, I'm Tucker. Welcome to my GitHub.
 
 ## Objective
-As a Military Intelligence Officer and Counterintelligence Special Agent for the last ten years, I developed a passion for the world of cybersecurity. Whether conducting threat analysis, security assessments, or federal crminial investigations, I constantly found myself humbled by cyber's ubiquitous presence in our lives. This fostered a drive in me to pursue a cybersecurity career post military service. I am actively seeking to join a Security Operations Center (SOC) as an Analyst with the eventual goal to branch into Digital Forensics and Incident Response (DFIR). 
+As a Military Intelligence Officer and Counterintelligence Special Agent for the last ten years, I developed a passion for the world of cybersecurity. Whether conducting threat analysis, security assessments, or federal criminal investigations, I constantly found myself humbled by cyber's ubiquitous presence in our lives. This fostered a drive in me to pursue a cybersecurity career post military service. I am actively seeking to join a Security Operations Center (SOC) as an Analyst with the eventual goal to branch into Digital Forensics and Incident Response (DFIR). 
 
 ## Projects
 - [Python Lab](https://github.com/tuckws/Lab_Python)
