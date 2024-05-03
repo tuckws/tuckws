@@ -14,8 +14,8 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 - [**GFACT** - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
 
 ## Misc
-- 2024 National Cyber League Competition - Spring [Indiv Event - Top 15% of 7400 & Team Event - Top 2% of 4200]
-- OverTheWire - Wargames
+- CTF: 2024 National Cyber League Competition - Spring [Indiv Event - Top 15% of 7400 & Team Event - Top 2% of 4200]
+- [CTF: OverTheWire - Bandit Series](https://github.com/tuckws/CTF_OTW_Bandit)
 - TryHackMe
 
 ## :wave: Connect with me
