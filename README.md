@@ -6,6 +6,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 #### Projects
 - [Python Lab](https://github.com/tuckws/Lab_Python)
 - [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
+- [pfSense Lab](https://github.com/tuckws/Lab_pfSense)
 - [SOC Analyst Automation Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
 
 #### Certifications
