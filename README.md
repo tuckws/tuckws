@@ -4,7 +4,6 @@
 As a Military Intelligence Officer and Counterintelligence Special Agent for the last ten years, I developed a passion for the world of cybersecurity. Whether conducting threat analysis, security assessments, endpoint forensics, or federal criminal investigations, I constantly found myself humbled by cyber's ubiquitous presence in our lives. This fostered a drive in me to pursue a cybersecurity career post military service. I am actively seeking to join a Security Operations Center (SOC) as an Analyst with the eventual goal to branch into Digital Forensics and Incident Response (DFIR). 
 
 #### Projects
-- [Python Lab](https://github.com/tuckws/Lab_Python)
 - [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
 - [pfSense Lab](https://github.com/tuckws/Lab_pfSense)
 - [SOC Analyst Automation Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
