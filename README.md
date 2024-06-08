@@ -9,7 +9,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 - [SOC Analyst Automation Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
 
 #### Certifications
-- [**GCIH** - GIAC Certified Incident Handler (June 2024)](https://www.giac.org/certifications/certified-incident-handler-gcih/)
+- [**GCIH** - GIAC Certified Incident Handler](https://www.giac.org/certifications/certified-incident-handler-gcih/)
 - [**GSEC** - GIAC Security Essentials](https://www.giac.org/certifications/security-essentials-gsec/)
 - [**GFACT** - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
 
