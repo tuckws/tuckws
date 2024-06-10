@@ -6,7 +6,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 #### Projects
 - [Active Directory Lab](https://github.com/tuckws/Lab_Active_Directory)
 - [pfSense Lab](https://github.com/tuckws/Lab_pfSense)
-- [SOC Analyst Automation Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
+- [SOC Automation YARA Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
 
 #### Certifications
 - [**GCIH** - GIAC Certified Incident Handler](https://www.giac.org/certifications/certified-incident-handler-gcih/)
