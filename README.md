@@ -9,6 +9,7 @@ As a Military Intelligence Officer and Counterintelligence Special Agent for the
 - [SOC Automation YARA Lab](https://github.com/tuckws/Lab_SOC_Analyst_Automation)
 
 #### Certifications
+- [**GCIA** - GIAC Certified Intrusion Analyst](https://www.giac.org/certifications/certified-intrusion-analyst-gcia/).
 - [**GCIH** - GIAC Certified Incident Handler](https://www.giac.org/certifications/certified-incident-handler-gcih/)
 - [**GSEC** - GIAC Security Essentials](https://www.giac.org/certifications/security-essentials-gsec/)
 - [**GFACT** - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
